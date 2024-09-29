@@ -70,6 +70,7 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  WikipediaW,
 };
 
 // 链接跳转
